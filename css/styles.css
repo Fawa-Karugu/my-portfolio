@@ -24,6 +24,8 @@ h4 {
 p {
   font-family: serif;
   margin-top: 2px;
+  margin-bottom: 12px;
+  line-height: 24px;
 }
 img {
   width:18%;
@@ -33,6 +35,11 @@ img {
 ol {
   list-style-position: inside;
   margin-top: 4px;
+  line-height: 24px;
+}
+ul {
+margin-top: 4px;
+line-height: 24px;
 }
 .a-box {
   border: 2px solid #9A3334;
@@ -46,7 +53,5 @@ ol {
   font-style: oblique;
   color: #217C7E;
   margin-bottom: 0px;
-}
-ul {
-margin-top: 4px;
+  margin-top: 8px;
 }
