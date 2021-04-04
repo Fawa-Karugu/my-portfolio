@@ -1,12 +1,17 @@
 h1 {
   color: #9A3334;
+  font-family: monospace;
 }
 h2 {
   color: #217C7E;
 }
 h3 {
   color: #9A3334;
+  font-family: monospace;
 }
 h4 {
   color: #217C7E;
+}
+p {
+  font-family: serif;
 }
