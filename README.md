@@ -10,10 +10,8 @@ This web-page was created in order to showcase the projects I have done as a stu
    * Click on the green button on the top right written "Code". A dialog box    should drop down.
    * Copy the URL of the repository either manually by highlighting the URL and copying it or by clicking on the clipboard icon next to the URL.
    * Open the terminal into the desired folder and use the git clone command.
-   * List the contents of the folder to confirm that the directory is present.
-   * Type in the git remote add...
-   * Use this command to clone the repository to your local folder https://github.com/Fawa-Karugu/my-portfolio.git
    * This will clone the repository into your local folder.
+   * List the contents of the folder to confirm that the directory is present.
 ## Technologies Used
 I used HTML and CSS to develop this web-page.
 ## Support and contact details
